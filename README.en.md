@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 095
+# 🦁 XXD Panel 095｜Red-and-Black Diagram Journal
 
 ### Explain the photograph with black technical lines, red spot colour, and modular visual shorthand
 

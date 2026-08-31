@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 095
+# 🦁 XXD Panel 095｜적흑 도해 저널
 
 ### 검은 기술 세선, 붉은 별색, 모듈형 도해로 사진을 설명합니다
 

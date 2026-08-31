@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 095
+# 🦁 XXD Panel 095｜红黑图解志
 
 ### 用黑色技术线、红色专色与图解路径解释照片
 

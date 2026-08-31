@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 095
+# 🦁 XXD Panel 095｜赤黒図解手帳
 
 ### 黒い技術細線、赤の特色、モジュール図解で写真を読み解く
 

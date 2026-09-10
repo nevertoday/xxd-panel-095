@@ -47,6 +47,15 @@ A decorative illustration may resemble the photograph without clarifying what ma
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Identity, contour, structure, pose, direction, and narrative relation are compressed into the fewest accurate visual cues |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-analyse subject, contour, structure, pose, and narrative relation → reduce them to decisive outlines, nodes, directions, actions, and symbols → establish one clear primary diagram → add only a few smaller supporting diagrams → connect them with scale, offset, alignment, and guide lines → draw in black technical line on warm paper → place red spot colour only at essential emphases → integrate sparse narrow modernist annotations → retain subtle grain, fibre, misregistration, and overprint
-```
-
-## Recognisable finished traits
-
-- Let fine, even black or deep-ink line carry nearly all contour, structure, and information.
-- Use vermilion, coral red, or print red only as a precise spot colour for a decisive structure, movement node, path, signal, region, keyword, or symbol.
-- Keep one unmistakable visual centre; supporting diagrams clarify rather than create a second story.
-- Treat sparse narrow sans-serif text as an editorial annotation aligned with icons, guide lines, red marks, and whitespace—not as a commercial headline bar.
-- Preserve flat space and subtle paper fibre, ink grain, misregistration, and overprint; avoid gradients, multicolour infographics, tech UI, rigid grids, decorative clutter, faux-antique filters, and template-retro posters.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-095-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>

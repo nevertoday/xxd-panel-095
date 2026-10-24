@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 095｜Red-and-Black Diagram Journal: explains the subject, structure, pose and story of a photo as a mid-century modern diagrammatic editorial illustration — visual shorthand in thin, even black technical lines, simple geometry, arcs, icons, partial cutaways and guide lines, one main diagram as the anchor with a few smaller supporting diagrams arranged like a technical manual plate, vermilion or coral red used only as a precise spot colour on key points, warm white paper with light ink grain, misregistration and overprint, and a few small notes in a narrow modernist sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-095 or asks for diagrammatic, infographic-style, red-and-black two-colour or technical-manual illustration from a photo.",
+  "short_description": "红黑图解志：用黑色细线、红色专色和小图解把照片里的东西讲清楚",
+  "zh-CN": {
+    "name": "红黑图解志",
+    "tagline": "用黑色技术细线、红色专色和几张小图解，把照片里的东西讲清楚。",
+    "look": "主体被压缩成最少但准确的线条：外轮廓、结构节点、方向和动作，用细线、弧线、简单几何、小图标和局部剖面画出来，像旧技术手册里的图版。画面有一张主图解做中心，旁边配几张小的辅助图示，用引导线、错位和大片留白串起阅读顺序。颜色只有暖白纸、黑线和一点朱红或珊瑚红，红色像编辑记号一样只出现在关键结构、路径或关键词上，带轻微油墨颗粒和套印偏差。文字很少，用小号窄体无衬线字，像编号注释贴在图示旁。",
+    "traits": ["图解速记", "技术细线", "主图解锚点", "红色专色标记", "大面积留白", "旧式印刷肌理"],
+    "good": [
+      "结构清楚、值得拆开讲的物件：自行车、相机、咖啡机、一把椅子",
+      "有明确动作或路径的场景：跑步的人、过桥的电车、冲浪、放风筝",
+      "建筑、地形或交通这类可以变成示意线的景物：灯塔、山路、车站、海岸线"
+    ],
+    "poor": [
+      "以氛围、光线或色彩取胜的照片：雾景、霓虹夜色、日落人像",
+      "需要保留真实长相与细节的肖像或证件照",
+      "想要五彩信息图、科技 UI、写实插画或卡通图标的需求"
+    ]
+  },
+  "en": {
+    "name": "Red-and-Black Diagram Journal",
+    "tagline": "Explains what is in a photo with black technical lines, red spot colour and a few small diagrams.",
+    "look": "The subject is reduced to the fewest accurate marks: outline, structural joints, direction and movement, drawn with thin lines, arcs, simple geometry, small icons and partial cutaways, like a plate from an old technical manual. One main diagram anchors the page, with a few smaller supporting diagrams linked by guide lines, offsets and wide whitespace to set a reading order. The colours are warm white paper, black line and a touch of vermilion or coral red, used like an editor's mark only on key structures, paths or words, with faint ink grain and misregistration. Text is minimal, in a small narrow sans-serif, placed as numbered notes beside the diagrams.",
+    "traits": ["Visual shorthand", "Thin technical lines", "Main diagram anchor", "Red spot marks", "Wide whitespace", "Old print texture"],
+    "good": [
+      "Objects with a clear structure worth explaining: a bicycle, a camera, a coffee machine, a chair",
+      "Scenes with a clear action or path: a runner, a tram crossing a bridge, surfing, kite flying",
+      "Buildings, terrain or transport that turn into schematic lines: a lighthouse, a mountain road, a station, a coastline"
+    ],
+    "poor": [
+      "Photos that rely on mood, light or colour: misty views, neon nights, sunset portraits",
+      "Portraits or ID photos that must keep a real likeness and fine detail",
+      "Requests for a multicoloured infographic, tech UI, realistic illustration or cartoon icons"
+    ]
+  },
+  "ja": {
+    "name": "赤黒図解手帳",
+    "tagline": "黒い技術線と赤の特色、いくつかの小さな図解で、写真に写るものをわかりやすく説明します。",
+    "look": "主役は、外形、構造の節目、方向、動きといった最少限で正確な情報に絞られ、細線、弧、単純な幾何形、小さなアイコン、部分的な断面図で描かれます。古い技術マニュアルの図版のようです。中心にはメインの図解がひとつあり、周りに小さな補助図をいくつか置き、引き出し線、ずらし、広い余白で読む順序をつくります。色は温かみのある白い紙、黒い線、少しの朱赤やコーラルレッドだけで、赤は校正記号のように重要な構造や経路、キーワードにだけ現れ、インクの粒子や版ずれがかすかに残ります。文字は最小限で、小さな細身のサンセリフ体が番号付きの注記として図の横に並びます。",
+    "traits": ["図解の略記法", "細い技術線", "メイン図解", "赤の特色マーク", "広い余白", "古い印刷の質感"],
+    "good": [
+      "構造がはっきりして説明しがいのある物：自転車、カメラ、コーヒーマシン、椅子",
+      "はっきりした動きや経路のある場面：走る人、橋を渡る路面電車、サーフィン、凧揚げ",
+      "模式線にしやすい建物、地形、交通：灯台、山道、駅、海岸線"
+    ],
+    "poor": [
+      "空気感や光、色で見せる写真：霧の風景、ネオンの夜、夕日のポートレート",
+      "本人らしさや細部をそのまま残したいポートレートや証明写真",
+      "カラフルなインフォグラフィック、テック系 UI、写実的なイラスト、カートゥーン風アイコンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "적흑 도해 저널",
+    "tagline": "검은 기술 선과 빨간 별색, 작은 도해 몇 장으로 사진 속 대상을 알기 쉽게 풀어냅니다.",
+    "look": "주인공은 외곽선, 구조의 마디, 방향과 동작처럼 가장 적지만 정확한 정보로 줄어들고, 가는 선, 호, 단순한 도형, 작은 아이콘, 부분 단면으로 그려져 옛 기술 매뉴얼의 도판처럼 보입니다. 중심에 메인 도해 하나를 두고 작은 보조 도해 몇 개를 곁들이며, 지시선, 어긋난 배치, 넓은 여백으로 읽는 순서를 만듭니다. 색은 따뜻한 흰 종이, 검은 선, 약간의 주홍이나 코럴 레드뿐이며, 빨강은 교정 표시처럼 핵심 구조나 경로, 키워드에만 나타나고 잉크 입자와 인쇄 어긋남이 옅게 남습니다. 글자는 최소한으로, 작은 좁은 산세리프체가 번호 붙은 주석처럼 도해 옆에 놓입니다.",
+    "traits": ["시각적 약기", "가는 기술 선", "메인 도해", "빨간 별색 표시", "넓은 여백", "옛 인쇄 질감"],
+    "good": [
+      "구조가 분명해 풀어 설명할 만한 사물: 자전거, 카메라, 커피 머신, 의자",
+      "뚜렷한 동작이나 경로가 있는 장면: 달리는 사람, 다리를 건너는 전차, 서핑, 연날리기",
+      "도식 선으로 바꾸기 좋은 건축, 지형, 교통: 등대, 산길, 역, 해안선"
+    ],
+    "poor": [
+      "분위기, 빛, 색으로 승부하는 사진: 안개 풍경, 네온 야경, 노을 인물 사진",
+      "실제 얼굴과 세부를 그대로 살려야 하는 인물 사진이나 증명사진",
+      "다채로운 인포그래픽, 테크 UI, 사실적 일러스트, 카툰 아이콘을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الرسوم التوضيحية بالأحمر والأسود",
+    "tagline": "يشرح ما في الصورة بخطوط تقنية سوداء ولون أحمر خاص وبضعة مخططات صغيرة.",
+    "look": "يُختزل العنصر في أقل العلامات الدقيقة: المحيط ومفاصل البنية والاتجاه والحركة، مرسومة بخطوط رفيعة وأقواس وأشكال هندسية بسيطة وأيقونات صغيرة ومقاطع جزئية، كأنها لوحة من دليل تقني قديم. يتصدر الصفحة مخطط رئيسي واحد، وحوله بضعة مخططات مساعدة أصغر تربطها خطوط إرشاد وإزاحات وفراغ واسع لترسم مسار القراءة. الألوان ورق أبيض دافئ وخط أسود ولمسة من الأحمر القرمزي أو المرجاني، تُستعمل كعلامة محرر فقط على البنى أو المسارات أو الكلمات الأساسية، مع حبيبات حبر خفيفة وانزياح طباعي. النص قليل جداً، بخط صغير ضيق بلا زوائد، كملاحظات مرقّمة بجانب المخططات.",
+    "traits": ["اختزال بصري", "خطوط تقنية رفيعة", "مخطط رئيسي", "علامات حمراء", "فراغ واسع", "ملمس طباعة قديمة"],
+    "good": [
+      "أشياء ذات بنية واضحة تستحق الشرح: دراجة، كاميرا، آلة قهوة، كرسي",
+      "مشاهد فيها حركة أو مسار واضح: عدّاء، ترام يعبر جسراً، ركوب الأمواج، طائرة ورقية",
+      "مبانٍ أو تضاريس أو وسائل نقل تتحول إلى خطوط تخطيطية: منارة، طريق جبلي، محطة، خط ساحلي"
+    ],
+    "poor": [
+      "صور تقوم على الأجواء أو الضوء أو اللون: مناظر ضبابية، ليالي النيون، صور شخصية عند الغروب",
+      "صور شخصية أو صور هوية يجب أن تحتفظ بالشبه الحقيقي والتفاصيل الدقيقة",
+      "طلب إنفوغرافيك متعدد الألوان أو واجهة تقنية أو رسم واقعي أو أيقونات كرتونية"
+    ]
+  }
+}

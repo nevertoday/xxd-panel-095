@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-095
-description: "Create XXD Panel 095 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-095 or requests the exact Panel 095 style."
+description: "XXD Panel 095｜Red-and-Black Diagram Journal: explains the subject, structure, pose and story of a photo as a mid-century modern diagrammatic editorial illustration — visual shorthand in thin, even black technical lines, simple geometry, arcs, icons, partial cutaways and guide lines, one main diagram as the anchor with a few smaller supporting diagrams arranged like a technical manual plate, vermilion or coral red used only as a precise spot colour on key points, warm white paper with light ink grain, misregistration and overprint, and a few small notes in a narrow modernist sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-095 or asks for diagrammatic, infographic-style, red-and-black two-colour or technical-manual illustration from a photo."
 ---
 
 # XXD Panel 095
